@@ -1,35 +1,35 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    padding: 20px;
 }
 
 .container {
-  max-width: 600px;
-  margin: auto;
+    max-width: 600px;
+    margin: auto;
 }
 
 #addBtn {
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
 }
 
 #progressContainer {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .progress-wrapper {
-  margin: 10px 0;
-  background: #e0e0e0;
-  border-radius: 5px;
-  overflow: hidden;
-  height: 20px;
+    margin: 10px 0;
+    background: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 20px;
 }
 
 .progress-bar {
-  height: 100%;
-  width: 0%;
-  background-color: #4caf50;
-  transition: width 2s linear;
+    height: 100%;
+    width: 0%;
+    background-color: #4caf50;
+    transition: width 2s linear;
 }
